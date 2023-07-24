@@ -1,0 +1,37 @@
+/home/crio-user/workspace/geektrust-challenge-gradle-java-template/src/test/java/com/geektrust/backend/IntegrationTest.java/IntegrationTest.java:45: error: method startJourney in interface IJourneyService cannot be applied to given types;
+        journeyService.startJourney(metroCard1, sourceStation, destinationStation, "ADULT");
+                      ^
+  required: MetroCard,Passenger,Station
+  found: MetroCard,Station,Station,String
+  reason: actual and formal argument lists differ in length
+/home/crio-user/workspace/geektrust-challenge-gradle-java-template/src/test/java/com/geektrust/backend/IntegrationTest.java/IntegrationTest.java:46: error: method startJourney in interface IJourneyService cannot be applied to given types;
+        journeyService.startJourney(metroCard2, sourceStation, destinationStation, "SENIOR_CITIZEN");
+                      ^
+  required: MetroCard,Passenger,Station
+  found: MetroCard,Station,Station,String
+  reason: actual and formal argument lists differ in length
+/home/crio-user/workspace/geektrust-challenge-gradle-java-template/src/test/java/com/geektrust/backend/IntegrationTest.java/IntegrationTest.java:47: error: method startJourney in interface IJourneyService cannot be applied to given types;
+        journeyService.startJourney(metroCard1, sourceStation, destinationStation, "CENTRAL");
+                      ^
+  required: MetroCard,Passenger,Station
+  found: MetroCard,Station,Station,String
+  reason: actual and formal argument lists differ in length
+/home/crio-user/workspace/geektrust-challenge-gradle-java-template/src/test/java/com/geektrust/backend/IntegrationTest.java/IntegrationTest.java:48: error: method startJourney in interface IJourneyService cannot be applied to given types;
+        journeyService.startJourney(metroCard3,sourceStation, destinationStation, "CENTRAL");
+                      ^
+  required: MetroCard,Passenger,Station
+  found: MetroCard,Station,Station,String
+  reason: actual and formal argument lists differ in length
+/home/crio-user/workspace/geektrust-challenge-gradle-java-template/src/test/java/com/geektrust/backend/IntegrationTest.java/IntegrationTest.java:49: error: method startJourney in interface IJourneyService cannot be applied to given types;
+        journeyService.startJourney(metroCard4, sourceStation, destinationStation, "CENTRAL");
+                      ^
+  required: MetroCard,Passenger,Station
+  found: MetroCard,Station,Station,String
+  reason: actual and formal argument lists differ in length
+/home/crio-user/workspace/geektrust-challenge-gradle-java-template/src/test/java/com/geektrust/backend/IntegrationTest.java/IntegrationTest.java:50: error: method startJourney in interface IJourneyService cannot be applied to given types;
+        journeyService.startJourney(metroCard5, sourceStation, destinationStation, "CENTRAL");
+                      ^
+  required: MetroCard,Passenger,Station
+  found: MetroCard,Station,Station,String
+  reason: actual and formal argument lists differ in length
+6 errors
