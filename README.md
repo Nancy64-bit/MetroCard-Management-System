@@ -115,10 +115,6 @@ Execute unit tests using the following command:
 gradle clean test --no-daemon
 ```
 
-## Help and Documentation
-
-Refer to our [help documents](https://help.geektrust.in) for more information. You can also find build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Java).
-
 Feel free to explore and contribute to this project!
 
 ## License
