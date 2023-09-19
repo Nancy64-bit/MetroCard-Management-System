@@ -1,5 +1,3 @@
-Certainly! Here's the updated README.md for the MetroCard Management System:
-
 # MetroCard Management System Challenge
 
 MetroCard Management System Challenge is a simulation of a metro train system. It involves various components like metro trains, MetroCards, travel charges, passenger types, journey types, and more. This README.md provides an overview of the key features and components of the system.
